@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\ExploringSuperposition\\ExploringSuperposition.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\ExploringSuperposition\\ExploringSuperposition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\ExploringSuperposition\\ExploringSuperposition.csproj",
+        "projectName": "ExploringSuperposition",
+        "projectPath": "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\ExploringSuperposition\\ExploringSuperposition.csproj",
+        "packagesPath": "C:\\Users\\BlueShift\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\ExploringSuperposition\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BlueShift\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Quantum.CSharpGeneration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.25.228311, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.EntryPointDriver": {
+              "target": "Package",
+              "version": "[0.25.228311, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.QSharp.Core": {
+              "target": "Package",
+              "version": "[0.25.228311, )"
+            },
+            "Microsoft.Quantum.Runtime.Core": {
+              "target": "Package",
+              "version": "[0.25.228311, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Standard": {
+              "target": "Package",
+              "version": "[0.25.228311, )"
+            },
+            "Microsoft.Quantum.Targets.Interfaces": {
+              "target": "Package",
+              "version": "[0.25.228311, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

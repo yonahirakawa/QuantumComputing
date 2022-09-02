@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QGUZ4NEWHiHhH7pLmSicmxqmISbTc4Ln6mNB0dvssMaO5fUY7XGuuUQNwYkdPrCfyQ502hsbmIA7R/pcJdaaQw==",
+  "dgSpecHash": "1sY08w82E12Y6ycmjwNEkdSsE/2wQO7RRES1QzpCzfxmpgaSXibZJQ39DriDGu6odIzi6qHspnB7Imqe9XGS/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\QuantumRNG.csproj",
+  "projectFilePath": "c:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\QuantumRNG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BlueShift\\.nuget\\packages\\azure.core\\1.22.0\\azure.core.1.22.0.nupkg.sha512",
     "C:\\Users\\BlueShift\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",

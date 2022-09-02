@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\QuantumRNG.csproj": {}
+    "c:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\QuantumRNG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\QuantumRNG.csproj": {
+    "c:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\QuantumRNG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\QuantumRNG.csproj",
+        "projectUniqueName": "c:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\QuantumRNG.csproj",
         "projectName": "QuantumRNG",
-        "projectPath": "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\QuantumRNG.csproj",
+        "projectPath": "c:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\QuantumRNG.csproj",
         "packagesPath": "C:\\Users\\BlueShift\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\obj\\",
+        "outputPath": "c:\\Users\\BlueShift\\git\\QuantumComputing\\Microsoft\\QuantumRNG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BlueShift\\AppData\\Roaming\\NuGet\\NuGet.Config"
