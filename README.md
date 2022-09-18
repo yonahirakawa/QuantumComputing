@@ -1,2 +1,3 @@
-# QuantumComputing
-Estudos sobre Computação Quântica.
+# Quantum Computing
+
+Repositório dedicado aos estudos sobre Computação Quântica.
